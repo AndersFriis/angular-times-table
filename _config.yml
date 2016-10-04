@@ -1,1 +1,3 @@
-baseurl:/angular-times-table
+exclude:
+  - node_modules
+baseurl: /angular-times-table
